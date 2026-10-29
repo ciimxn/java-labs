@@ -1,0 +1,17 @@
+*.class
+*.jar
+target/
+out/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+*.pdf
+scratch/
+f_task*.txt
+g_task*.txt
+h_task*.txt
+liquid_volumes.txt
+favorite_food.txt
